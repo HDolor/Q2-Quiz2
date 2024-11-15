@@ -1,0 +1,42 @@
+.empty-Blue-Fill-Container {
+	background-color: skyblue;
+	height: 50px;
+	border-bottom: 4px solid black;
+}
+.top-Text-Website-Big {
+	text-align: center;
+	font-smooth: always;
+}
+.text-Size-Big {
+	font-size: 30px;
+	text-align: center;
+	margin: auto;
+	font-weight: bold;
+}
+.img-Size-Set {
+	width: 120px;
+	height: 120px;
+	margin: auto;
+}
+.footer-References {
+	background-color: #074F57;
+	border-top: 4px solid black;
+}
+.footer-References-Inside {
+	background-color: #E4C5AF;
+	border-radius: 20px;
+	padding: 6px;
+}
+p {
+	font-size: 14px;
+}
+a {
+	font-weight: bold;
+	color: darkred;
+}
+a:link {
+	color: red;
+}
+a:visited {
+	color: orangered;
+}
